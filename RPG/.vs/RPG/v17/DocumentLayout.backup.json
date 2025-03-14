@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\source\\repos\\RPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66FA8985-A799-4DB5-821D-3EE6EC8DBBA9}|RPG\\RPG.csproj|c:\\users\\aluno\\source\\repos\\rpg\\rpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66FA8985-A799-4DB5-821D-3EE6EC8DBBA9}|RPG\\RPG.csproj|solutionrelative:rpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66FA8985-A799-4DB5-821D-3EE6EC8DBBA9}|RPG\\RPG.csproj|c:\\users\\aluno\\source\\repos\\rpg\\rpg\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66FA8985-A799-4DB5-821D-3EE6EC8DBBA9}|RPG\\RPG.csproj|solutionrelative:rpg\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Personagem.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\RPG\\RPG\\Personagem.cs",
+              "RelativeDocumentMoniker": "RPG\\Personagem.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\RPG\\RPG\\Personagem.cs",
+              "RelativeToolTip": "RPG\\Personagem.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAADwv5EAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T15:03:46.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\RPG\\RPG\\Program.cs",
+              "RelativeDocumentMoniker": "RPG\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\RPG\\RPG\\Program.cs",
+              "RelativeToolTip": "RPG\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T15:03:29.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
