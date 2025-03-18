@@ -1,0 +1,9 @@
+C:\Users\Aluno\source\repos\RPG\RPG\bin\Debug\RPG.exe.config
+C:\Users\Aluno\source\repos\RPG\RPG\bin\Debug\RPG.exe
+C:\Users\Aluno\source\repos\RPG\RPG\bin\Debug\RPG.pdb
+C:\Users\Aluno\source\repos\RPG\RPG\obj\Debug\RPG.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\RPG\RPG\obj\Debug\RPG.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\RPG\RPG\obj\Debug\RPG.exe
+C:\Users\Aluno\source\repos\RPG\RPG\obj\Debug\RPG.pdb
+C:\Users\Aluno\Source\Repos\RPG-por-turnos\RPG\RPG\obj\Debug\RPG.exe
+C:\Users\Aluno\Source\Repos\RPG-por-turnos\RPG\RPG\obj\Debug\RPG.pdb
